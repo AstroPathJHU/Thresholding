@@ -12,6 +12,7 @@ from matplotlib.backends.backend_pdf import PdfPages
 import seaborn as sns
 from itertools import product
 
+print('hi')
 
 def get_otsu_threshold(im):
     # Thanks, Wikipedia: https://en.wikipedia.org/wiki/Otsu%27s_method
